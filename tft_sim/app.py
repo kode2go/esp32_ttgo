@@ -1,4 +1,3 @@
-# Woki: https://wokwi.com/projects/389108024176710657
 #include "Arduino.h"
 #include <Adafruit_ILI9341.h>
 #include "Adafruit_GFX.h"
