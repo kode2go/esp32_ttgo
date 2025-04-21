@@ -13,14 +13,14 @@ WiFiMulti WiFiMulti;
 HTTPClient ask;
 
 // Blynk credentials
-const char* BLYNK_AUTH_TOKEN = "_Tx2yYYTCFm4Q0tzfLZmc_87QBkEdxYt";
+const char* BLYNK_AUTH_TOKEN = "xx";
 const int VIRTUAL_PIN = 4;
 
 // Replace with your Bearer token and plant ID
 // char* bearer_token = nullptr;
 char bearer_token[100];
 // char bearer_token[64];
-const char* plant_id = "258314";
+const char* plant_id = "xx";
 
 char ssid[] = "x";
 char pass[] = "x";
