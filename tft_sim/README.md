@@ -1,5 +1,7 @@
 # Setup in woki
 
+To do: Rather try TFT_eSPI
+
 https://wokwi.com/projects/389108024176710657
 
 ```
