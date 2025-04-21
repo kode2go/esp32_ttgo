@@ -1,6 +1,6 @@
 # Setup in woki
 
-To do: Rather try TFT_eSPI
+To do: Rather try TFT_eSPI, not sure in woki though how to setup user_select etc... 
 
 https://wokwi.com/projects/389108024176710657
 
